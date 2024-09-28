@@ -1,0 +1,26 @@
+[9:55 AM, 9/28/2024] Welcome Mart - ONDC: {
+  "app_name": "Welcome Mart",
+  "website": "www.welcomemart.co.in",
+  "contact_person": {
+    "name": "Shivam Kumar Yadav",
+[9:56 AM, 9/28/2024] Welcome Mart - ONDC: {
+{
+  "transaction": {
+    "seller": {
+      "company_name": "RKPY DISTRIBUTION PRIVATE LIMITED",
+      "contact_person": {
+        "name": "Shivam Kumar Yadav",
+        "mobile": "9628200260",
+        "email": "shivamyadav60000@gmail.com"
+      },
+      "payout_account": {
+        "account_name": "RKPY DISTRIBUTION PRIVATE LIMITED",
+        "account_number": "10152280885",
+        "ifsc": "IDFB0021982",
+        "swift_code": "IDFBINBBMUM",
+        "bank_name": "IDFC FIRST"
+      }
+    },
+    "payment_mode": "NEFT",
+    "amount": 0,  // Specify the amount
+    "transaction_date": "2024-09-28T12:00:00Z"
