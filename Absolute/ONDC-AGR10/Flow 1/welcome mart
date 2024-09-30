@@ -1,0 +1,231 @@
+{
+  "context": {
+    "domain": "ONDC Welcome Mart",
+    "country": "India",
+    "city_code": "UP/42",
+    "action": "Search",
+    "transaction_id": "bce2eea8-76ac-46d7-9606-de6cca957f6b",
+    "message_id": "83ce77b5-e32e-41ac-8311-9b89ada4fa81",
+    "timestamp": "2024-09-17T17:22:21.530Z"
+  },
+  "seller_information": {
+    "bpp_id": "welcomemart.co.in",
+    "bpp_uri": "http://www.welcomemart.co.in",
+    "fulfillment_types": ["Delivery", "Self-Pickup"],
+    "provider_name": "Welcome Mart - H&W Test scripts",
+    "contact": {
+      "phone": "01169268975",
+      "email": "support@welcomemart.co.in"
+    },
+    "location": {
+      "address": "Near Deokali Chowk",
+      "city": "Ayodhya",
+      "district": "Faizabad",
+      "state": "Uttar Pradesh",
+      "pincode": "224001"
+    }
+  },
+  "items_available": [
+    {
+      "name": "Sandook Amal Tablet - 60T",
+      "price": 439.00,
+      "description": "Ayurvedic tablet for wellness.",
+      "available_units": 99
+    },
+    {
+      "name": "Sandook Banyan Root Care Tablet - 60T",
+      "price": 439.00,
+      "description": "Ayurvedic tablet for root care.",
+      "available_units": 99
+    }
+  ],
+  "operational_hours": {
+    "days": "Open daily",
+    "hours": "09:00 to 21:00"
+  },
+  "minimum_order_value": 300.00
+}
+{
+  "SANDOOK_Product_Line": [
+    {
+      "id": "661ba21390f45674e0c303b1",
+      "name": "Sandook Banyan Root Oil",
+      "size": "200 ml",
+      "price": {
+        "current": "₹527.00",
+        "maximum": "₹599.00"
+      },
+      "description": "Sandook banyan root oil",
+      "ingredients": [
+        "Vada parambi",
+        "Beheda beej",
+        "Jaswand phool",
+        "Sunthi churna",
+        "Jatamansi",
+        "Kapur",
+        "Till oil"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/61Om9nXIWHL._SL1100_.jpg",
+      "category": "Medicated Hair Care",
+      "fulfillment_id": "1",
+      "returnable": true,
+      "cancellable": true,
+      "available_on_cod": false,
+      "return_window": "P1D",
+      "time_to_ship": "PT30M",
+      "contact_details": {
+        "name": "Shivam",
+        "email": "support@welcomemart.co.in",
+        "phone": "01169268975"
+      },
+      "manufacturer_info": {
+        "name": "SANDOOK",
+        "address": "12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka - 560008",
+        "month_year_of_manufacture": "01/2017"
+      }
+    },
+    {
+      "id": "661ba21390f45674e0c303bz",
+      "name": "Sandook Banyan Root Oil",
+      "size": "400 ml",
+      "price": {
+        "current": "₹827.00",
+        "maximum": "₹999.00"
+      },
+      "description": "Sandook banyan root oil",
+      "ingredients": [
+        "Vada parambi",
+        "Beheda beej",
+        "Jaswand phool",
+        "Sunthi churna",
+        "Jatamansi",
+        "Kapur",
+        "Till oil"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/61Om9nXIWHL._SL1100_.jpg",
+      "category": "Medicated Hair Care",
+      "fulfillment_id": "1",
+      "returnable": true,
+      "cancellable": true,
+      "available_on_cod": false,
+      "return_window": "P1D",
+      "time_to_ship": "PT30M",
+      "contact_details": {
+        "name": "Shivam",
+        "email": "support@welcomemart.co.in",
+        "phone": "01169268975"
+      },
+      "manufacturer_info": {
+        "name": "SANDOOK",
+        "address": "12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka - 560008",
+        "month_year_of_manufacture": "01/2017"
+      }
+    }
+  ]
+}
+{
+  "SANDOOK_Product_Line": [
+    {
+      "name": "Sandook Mind Zen Oil",
+      "size": "200 ml",
+      "price": {
+        "current": "₹527.00",
+        "maximum": "₹599.00"
+      },
+      "description": "A soothing hair oil designed to promote relaxation and wellness.",
+      "ingredients": [
+        "Ashwagandha",
+        "Japapushpa",
+        "Bhringaraj",
+        "Kachoor",
+        "Brahmi",
+        "Sugandhi vala",
+        "Mandukparni",
+        "Pudina satwa",
+        "Kapoor"
+      ],
+      "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/hair-oil/i/n/k/200-mind-zen-sandook-original-imagzqz6d24qd8wy.jpeg?q=70&crop=false"
+    },
+    {
+      "name": "Sandook Banyan Root Shampoo",
+      "size": "200 ml",
+      "price": {
+        "current": "₹491.00",
+        "maximum": "₹599.00"
+      },
+      "description": "A revitalizing shampoo enriched with natural ingredients for healthy hair.",
+      "ingredients": [
+        "Haritaki",
+        "Bibhitaki",
+        "Amalaki",
+        "Aqua",
+        "Cocamidopropyl Betaine"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/61EQbzTa0lL._SL1100_.jpg"
+    },
+    {
+      "name": "Sandook Banyan Root Conditioner",
+      "size": "200 ml",
+      "price": {
+        "current": "Price not specified"
+      },
+      "description": "A nourishing conditioner that complements the Banyan Root Shampoo for optimal hair care.",
+      "ingredients": "Ingredients not specified",
+      "image_url": "https://www.sandooksutras.com/cdn/shop/products/Sandook-square-conditioner.jpg?v=1664862131&width=600"
+    }
+  ],
+  "General_Information": {
+    "manufacturer": "SANDOOK",
+    "address": "12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka - 560008",
+    "common_name": "Medicated Hair Care",
+    "manufacturing_date": "January 2017"
+  },
+  "Customer_Support": {
+    "contact_name": "Shivam",
+    "email": "Support@welcomemart.co.in",
+    "phone": "01169268975"
+  }
+}
+{
+  "product": {
+    "name": "SANDOOK Square Conditioner",
+    "price": {
+      "current": "₹450.00",
+      "original": "₹549.00"
+    },
+    "quantity": {
+      "available": 99,
+      "max_purchase_limit": 15
+    },
+    "category": "Medicated Hair Care",
+    "image": "https://www.sandooksutras.com/cdn/shop/products/Sandook-square-conditioner.jpg?v=1664862131&width=600",
+    "tags": {
+      "origin": "India",
+      "brand": "SANDOOK",
+      "prescription_required": false
+    },
+    "shipping_and_returns": {
+      "returnable": true,
+      "return_window": "1 day",
+      "cancellable": true,
+      "time_to_ship": "30 minutes",
+      "available_on_cod": false
+    },
+    "contact_information": {
+      "customer_care_contact": "Shivam",
+      "email": "support@welcomemart.co.in",
+      "phone": "01169268975"
+    },
+    "manufacturer_details": {
+      "address": "12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka-560008",
+      "month_year_of_manufacture": "01/2017"
+    },
+    "ingredients": [
+      "Butyrospermum Parki",
+      "Cetearyl Alcohol",
+      "Cetyl Alcohol",
+      "Dimethicone",
+      "Disodium Edetate"
+    ]
+  }
+}
